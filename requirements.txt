@@ -1,0 +1,8 @@
+google-api-python-client
+google-auth-httplib2 
+google-auth-oauthlib 
+langchain-google-community[gmail]
+langchain
+langgraph
+langchain-community
+langchain[openai]

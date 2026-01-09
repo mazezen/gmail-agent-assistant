@@ -9,10 +9,13 @@
 
 ## 使用
 
-1. clone 此仓库
-2. 安装依赖
-3. 运行脚本
-4. 下载 credentails.json 放在当前目录下. 如何下载参考 `授权流程`
+1. 克隆仓库
+2. 去 Google Cloud Console 创建 OAuth 客户端 ID（桌面应用）
+3. 把下载的 credentials.json 放项目根目录
+4. 安装依赖：pip install - r requirements.txt
+5. 运行 python main.py
+6. 第一次会弹出浏览器授权，之后自动保存 token
+7. 看桌面 Markdown → 输入 y 标记已读 → 收件箱清零！
 
 ## 流程
 
